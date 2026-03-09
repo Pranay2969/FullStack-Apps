@@ -1,2 +1,10 @@
-# FullStack-Apps
-Full-stack web applications built using modern technologies including React, Node.js, Express, and databases.
+# Full Stack Applications
+
+This repository contains complete full-stack applications including frontend, backend, and database.
+
+Tech Stack
+- React
+- Node.js
+- Express
+- MongoDB
+- REST APIs
